@@ -18,7 +18,7 @@ function App() {
 		<div id="heading">
 			<h1 class="site-title">
 			<a class="logo custom-logo" href="/web/home-community" title="Go to home-community">
-			<img alt="home-community" height="61" src="C:\Users\jerem\amplifyapp\src\header_image.png" width="2118" />
+			<img alt="home-community" height="61" src="/header_image.png" width="2118" />
 			</a>
 			</h1>
 			<h2 class="page-title">
